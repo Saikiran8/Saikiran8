@@ -1,4 +1,5 @@
-# Hey there! 👋 I'm Saikiran Kolloju, Your Cloud & DevOps Enthusiast! 🚀
+# Howdy! 👋 
+# I'm Saikiran Kolloju, a cloud architect and DevOps engineer on a mission to streamline software delivery and scale infrastructures."🚀
 
 > ![](https://komarev.com/ghpvc/?username=Saikiran8&color=blue)
 
@@ -28,7 +29,7 @@ I'm passionate about leveraging cloud technologies and DevOps practices to build
 
 ## 🌟 Projects
 ### Infrastructure as Code
-- Built AWS infrastructure using Terraform, incorporating VPC networking, EC2, RDS, and secure S3.
+- Built GCP infrastructure using Terraform, incorporating VPC networking, Compute Engine, MySQL, and secure buckets.
 - Automated AMI provisioning with HashiCorp Packer and configured GitHub Actions for CI/CD.
 
 ### Snowflake Infra Pipeline with Terraform and GitHub Actions
