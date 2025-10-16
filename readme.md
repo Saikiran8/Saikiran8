@@ -1,57 +1,86 @@
-# Howdy! 👋 
-# I'm Saikiran Kolloju, a cloud architect and DevOps engineer on a mission to streamline software delivery and scale infrastructures."🚀
+# Hey there! 👋 
+# I'm Saikiran Kolloju, a Cloud & Site Reliability Engineer building scalable, automated infrastructure on AWS and GCP 🚀
 
 > ![](https://komarev.com/ghpvc/?username=Saikiran8&color=blue)
 
 ## 🧑‍💻 About Me
-I'm passionate about leveraging cloud technologies and DevOps practices to build scalable, efficient, and secure systems. With experience as a Senior Cloud Data Engineer and DevOps Intern, I thrive in dynamic environments where innovation and collaboration drive success.
 
-## 💻 What I Do
-- **Cloud Migration Expert:** Guiding clients through seamless on-premises to cloud journeys, optimizing performance and reducing deployment times.
-- **Automation Advocate:** Implementing CI/CD pipelines, automating build, test, and deployment processes to enhance efficiency and reliability.
-- **Containerization Specialist:** Utilizing Docker and Kubernetes for containerizing applications and orchestrating deployments for robust scaling.
-- **Cloud Maestro:** Proficient in AWS, GCP, and Azure, leveraging cloud services for optimal performance, cost management, and scalability.
-- **Data Integration Pro:** Enhancing system performance and reliability through meticulous data migration and integration of microservices.
-- **Security Focused:** Ensuring secure communication and access control through IAM and security best practices.
+Cloud & Site Reliability Engineer specializing in infrastructure automation, container orchestration, and production observability. I'm passionate about combining DevOps automation with SRE reliability practices to build resilient systems that scale. Currently based in Boston, MA and available for new opportunities.
+
+## 💼 Professional Experience
+
+**Cloud Services Engineer** @ LumenUs Scientific *(Jan 2025 - Aug 2025)*
+- Architected production-ready geospatial analytics platform processing 500+ satellite images daily
+- Reduced backend processing time by 2 hours/day using EMR + Step Functions for distributed workloads
+- Built fault-tolerant pipelines handling 100GB+ daily data loads with comprehensive CloudWatch observability
+
+**Senior Cloud Data Engineer** @ LTIMindtree *(Jul 2022 - Aug 2023)*
+- Engineered CI/CD pipelines supporting 100+ deployments/month with 99.9% success rate
+- Reduced build times from 15 to 9 minutes through pipeline optimization and automation
+- Migrated 6+ legacy platforms to cloud warehouses, eliminating 50+ manual errors per migration
+
+**DevOps Engineer** @ Shunyeka *(Jun 2021 - Jul 2022)*
+- Re-architected 10+ monolithic services for Kubernetes with zero-downtime rolling deployments
+- Automated AWS cloud migration reducing infrastructure costs by $400/month
+- Developed Boto3 automation scripts provisioning 30+ AWS resources across multiple environments
+
+## 💻 Technical Expertise
+
+**Cloud Platforms**  
+AWS (EC2, S3, RDS, Lambda, Step Functions, EMR, IAM, CloudWatch, VPC) | GCP (Compute Engine, Cloud SQL, Cloud Storage, IAM)
+
+**Container & Orchestration**  
+Kubernetes | Docker | EKS | GKE | Helm | Minikube
+
+**CI/CD & Infrastructure as Code**  
+Terraform | GitHub Actions | Packer | GitLab CI | Google Cloud Build | ArgoCD (GitOps)
+
+**Programming & Scripting**  
+Python | Bash Shell Scripting | SQL | JavaScript
+
+**DevOps Practices**  
+Site Reliability Engineering (SRE) | Agile/Scrum | Git Version Control | Observability & Monitoring
+
+**Operating Systems**  
+Linux (Ubuntu, RHEL, Amazon Linux) | Windows Server
+
+**Networking**  
+TCP/IP | HTTP/HTTPS | DNS | SSL/TLS | VPC Configuration
 
 ## 📰 Certifications
+
 - **AWS Cloud Technical Essentials**
 - **Google Data Analytics Professional**
 - **IBM Data Science with Python**
 
 ## 📖 Education
-- **Northeastern University, Boston, MA**
-  - Master of Science in Information Systems (Expected May 2025)
-  - Course Work: Advanced Cloud Computing, Network Structures and Cloud Computing, Data Structures and Algorithms
-- **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, India**
-  - BEng in Electronics Engineering (Aug 2018 - May 2022)
-  - Course Work: Database Management, Operating Systems, Software Engineering
 
-## 🌟 Projects
-### Infrastructure as Code
-- Built GCP infrastructure using Terraform, incorporating VPC networking, Compute Engine, MySQL, and secure buckets.
-- Automated AMI provisioning with HashiCorp Packer and configured GitHub Actions for CI/CD.
+**Northeastern University, Boston, MA**  
+Master of Science in Computer Software Engineering *(December 2025)*  
+*Coursework: Network Structures and Cloud Computing, Linux for Network Engineers*
 
-### Snowflake Infra Pipeline with Terraform and GitHub Actions
-- Established modular project structure for Terraform, implemented key pair authentication, and integrated pre-commit hooks and GitHub Actions for automated validations.
+## 🌟 Featured Projects
 
-### RenIoT
-- Developed a portable vaccine carrier with AWS integration for cloud deployment, ensuring secure and reliable storage for temperature-sensitive vaccines.
+### Cloud Provisioning & CI/CD Automation
+> **Tech Stack:** Terraform | Packer | GCP | GitHub Actions | Python
 
-### Skilltej
-- Created an Ed-Tech web app with a React frontend and FastAPI backend, empowering education through technology.
-
-### Flat-Data Scraping
-- Automated data scraping with Selenium, exporting website data into Excel sheets to streamline data retrieval processes.
-
-### Fitbit Data Analysis
-- Analyzed Fitbit data for insights as part of a Google DA certification capstone project, showcasing data analysis skills.
-
-### FirstDrink
-- Developed an IoT-based water calculator/notifier, managing front-end programming and collaborating on back-end development.
+- Built custom Google Machine Images with Packer, reducing environment setup from 20 to 12 minutes
+- Provisioned multi-tier GCP infrastructure with VPC isolation using Terraform modules
+- Implemented automated CI/CD pipelines with PR validation, eliminating 10+ manual QA steps
+- Achieved 100% test coverage across dev, staging, and production environments
+- **[View Repository →](https://github.com/Saikiran8/CSYE6225-Network-Structure-and-Cloud-Computing)**
 
 ## 🤝 Let's Connect!
-- **LinkedIn:** [Saikiran Kolloju](https://www.linkedin.com/in/saikirankolloju18/)
-- **GitHub:** [Saikiran8](https://github.com/Saikiran8)
 
-Feel free to reach out at kolloju.s@northeastern.edu if you have questions, need assistance, or just want to chat about cloud computing and DevOps! 🚀
+I'm always excited to discuss cloud architecture, DevOps best practices, or collaborate on interesting projects!
+
+- 📧 Email: [kollojusaikiranchary@outlook.com](mailto:kollojusaikiranchary@outlook.com)
+- 💼 LinkedIn: [linkedin.com/in/saikirankolloju18](https://www.linkedin.com/in/saikirankolloju18/)
+- 📱 Phone: +1(857) 891-6437
+- 📍 Location: Boston, MA
+
+**Currently seeking:** Cloud Engineer, Site Reliability Engineer, or DevOps Engineer roles
+
+---
+
+💡 *"Building reliable systems that scale, one deployment at a time."*
